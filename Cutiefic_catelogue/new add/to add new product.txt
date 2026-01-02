@@ -1,0 +1,11 @@
+<div class="product">
+  <div class="image-scroll">
+    <img src="images/electronic_1.jpg">
+    <img src="images/electronic_2.jpg">
+    <img src="images/electronic_3.jpg">
+  </div>
+
+  <p class="sku">SKU: 102501</p>
+  <p class="name">Rechargeable Table Lamp</p>
+</div>
+s
